@@ -1,0 +1,5 @@
+Num  name     time   payment 
+1-    ali      25.0    23000.0
+2-    yalda      35.0    30000.0
+3-    raha      90.0    50000.0
+4-    ahmad      230.0    25000.0
